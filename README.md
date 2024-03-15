@@ -5,5 +5,5 @@
 
    1. My Volleyball Coach App link
    1. info about the App
-   1. features to implement
    1. an about me section
+   1. links to socials
